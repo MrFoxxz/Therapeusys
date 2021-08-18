@@ -1,0 +1,8 @@
+{
+  "login.login": "Enterokay",
+  "login.user": "Nome do usuário",
+  "login.password": "Senha",
+  "login.forgotPassword": "Esqueci minha senha",
+  "component.register": "Register2",
+  "component.delete": "Delete2"
+}

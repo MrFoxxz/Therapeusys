@@ -1,0 +1,8 @@
+{
+  "login.login": "Login",
+  "login.user": "User",
+  "login.password": "Password",
+  "login.forgotPassword": "Forgot Password",
+  "component.register": "Register",
+  "component.delete": "Delete"
+}
